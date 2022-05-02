@@ -2,9 +2,10 @@ Hello! I'm Android developer.
 
 🔭 I’m currently working on Kinemaster  
 🌱 I’m currently interested in Coroutine, Jetpack Compose, Room, AAC ViewModel, StateFlow
+
+- my introduction in detail [here](https://github.com/yeon1216/introduce/blob/main/README.md)
 - my android study repository in [here](https://github.com/yeon1216/android-study)
 
-You can see my introduction in detail [here](https://github.com/yeon1216/introduce/blob/main/README.md)
 
 <!--
 **yeon1216/yeon1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
