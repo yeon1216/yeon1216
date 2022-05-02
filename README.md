@@ -1,4 +1,7 @@
-### Hi there 👋
+🔭 I’m currently working on Kinemaster
+🌱 I’m currently learning Jetpack Compose
+
+You can see my introduction in detail [here](https://github.com/yeon1216/introduce)
 
 <!--
 **yeon1216/yeon1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
