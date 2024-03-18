@@ -1,4 +1,4 @@
-Hello! I'm Android developer.  
+Hello! I'm IOS & Android App developer.  
 
 🔭 I’m currently working on Kinemaster.
 
