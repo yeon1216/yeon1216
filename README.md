@@ -1,7 +1,7 @@
 Hello! I'm Android developer.  
 
 🔭 I’m currently working on Kinemaster  
-🌱 I’m currently interested in Swift, SwiftUI, Composable Architecture ...
+🌱 I’m currently interested in Swift, SwiftUI, Composable Architecture
 📫 How to reach me: sykim8770@gmail.com, [Linkedin](https://www.linkedin.com/in/sungyeon-kim-a419471a9)
 
 - my introduction in detail [here](https://github.com/yeon1216/introduce/blob/main/README.md)
