@@ -6,6 +6,7 @@ Hello! I'm iOS App developer.
 
 📫 How to reach me: sykim8770@gmail.com, [Linkedin](www.linkedin.com/in/kim-sungyeon)
 
+📝 Study: [VLog](https://velog.io/@greenocean)
 <!-- - my android study repository in [here](https://github.com/yeon1216/android-study) -->
 
 
